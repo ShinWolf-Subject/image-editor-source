@@ -6,8 +6,7 @@
 
 A native, open-source, and lightning-fast image editor for your everyday needs. 🎨
 
-[demo site](https://image-editor-wbc.netlify.app/) 
-[Open-Source Preview](https://image-editor-source-cd.netlify.app/).
+[demo site](https://image-editor-wbc.netlify.app/) - [Open-Source Preview](https://image-editor-source-cd.netlify.app/).
 
 ---
 
